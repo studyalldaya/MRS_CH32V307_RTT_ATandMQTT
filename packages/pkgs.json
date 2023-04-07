@@ -1,0 +1,17 @@
+[
+ {
+  "path": "/packages/iot/pahomqtt", 
+  "ver": "v1.1.0", 
+  "name": "PAHOMQTT"
+ }, 
+ {
+  "path": "/packages/iot/at_device", 
+  "ver": "latest", 
+  "name": "AT_DEVICE"
+ }, 
+ {
+  "path": "/packages/peripherals/button", 
+  "ver": "v1.0.1", 
+  "name": "BUTTON"
+ }
+]
