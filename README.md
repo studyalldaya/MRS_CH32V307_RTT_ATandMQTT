@@ -1,0 +1,4 @@
+# MRS_CH32V307_RTT_ATandMQTT
+在MRS上基于CH32V307移植rtthread4.0.4，可以使用env配置RTT和下载更新软件包，已包含AT设备和pahoMQTT软件包，使用esp8266只需修改修改wifi名字和密码即可连接
+
+MRS默认生成的RTThread版本太老，且不支持env组件，使用起来非常不方便，这里移植rttStudio的工程到MRS上
