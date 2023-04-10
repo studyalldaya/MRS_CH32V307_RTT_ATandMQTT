@@ -12,8 +12,8 @@
 /* Global typedef */
 
 /* Global define */
-//LED1==>PA0  LED2==>PC3   key1==>PC4
-void led1_toogle(void)
+// LED1==>PA0  LED2==>PC3   key1==>PC4
+void led1_toggle(void)
 {
     LED1_ON;
 
@@ -49,7 +49,6 @@ int main(void)
 
     while (1)
     {
-        led1_toogle();
+        led1_toggle();
     }
 }
-
